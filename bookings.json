@@ -1,0 +1,41 @@
+[
+    {
+        "name": "mike",
+        "email": "jiwoncjje@gmail.com",
+        "phone": "6028740283",
+        "shoot_type": "Portrait",
+        "date": "2026-11-06",
+        "location": "brooklyn",
+        "camera": "Fujifilm",
+        "package": "$200 - 60 Photos",
+        "client_notes": "its a surprise for my partner ",
+        "photographer_notes": "yes that is perfect ",
+        "status": "Confirmed"
+    },
+    {
+        "name": "Sarah Mitchell",
+        "email": "sarah.mitchell@test.com",
+        "phone": "555-010-1234",
+        "shoot_type": "Couples",
+        "date": "2026-11-21",
+        "location": "Central Park, NYC",
+        "camera": "Sony",
+        "package": "$200 - 60 Photos",
+        "client_notes": "My boyfriend and I are celebrating our anniversary. We'd love natural photos around Central Park, preferably during golden hour. Nothing too posed!",
+        "photographer_notes": "",
+        "status": "Cancelled"
+    },
+    {
+        "name": "James Carter",
+        "email": "james.carter@example.com",
+        "phone": "555-010-5678",
+        "shoot_type": "Graduation",
+        "date": "2026-12-12",
+        "location": "Pace University",
+        "camera": "Nikon",
+        "package": "$100 - 20 Photos",
+        "client_notes": "",
+        "photographer_notes": "",
+        "status": "Completed"
+    }
+]
